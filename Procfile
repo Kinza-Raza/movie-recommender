@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run movie-rec.py
+web: sh setup.sh && streamlit run movie-rec.py $PORT
